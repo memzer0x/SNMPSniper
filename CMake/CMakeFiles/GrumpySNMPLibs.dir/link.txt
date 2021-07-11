@@ -1,2 +1,0 @@
-/usr/bin/ar qc libGrumpySNMPLibs.a CMakeFiles/GrumpySNMPLibs.dir/home/chiefgremlin/Project/SNMP/src/source/init.cpp.o CMakeFiles/GrumpySNMPLibs.dir/home/chiefgremlin/Project/SNMP/src/source/snmp.cpp.o
-/usr/bin/ranlib libGrumpySNMPLibs.a

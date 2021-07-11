@@ -1,4 +1,0 @@
-/home/chiefgremlin/Project/SNMP/CMake/CMakeFiles/rebuild_cache.dir
-/home/chiefgremlin/Project/SNMP/CMake/CMakeFiles/edit_cache.dir
-/home/chiefgremlin/Project/SNMP/CMake/CMakeFiles/GrumpySNMP.dir
-/home/chiefgremlin/Project/SNMP/CMake/CMakeFiles/GrumpySNMPLibs.dir
