@@ -8,17 +8,17 @@ If you want to learn how to interact with SNMP using C i would go read their cod
 I redesigned most of it using the OOP of C++, but there is still a lot of similarities, in what the functions actually does.
 
 
-USAGE: **snmpscan** [OPTIONS] <host> <community>\n
-  -h <host> IPv4 or Netmask to scan\n
-  -o <outputdirectory> save scan output\n
-  -f <fileinput> list of targets\n
-  -p <port> target snmp port\n
-  -v  verbose mode\n
-  -c <communityname> (public or private)\n
-  -? print this help menu\n
-default community names are : public, private\n
-default port : 161\n
+USAGE: **snmpscan** [OPTIONS] <host> <community><br>
+  -h <host> IPv4 or Netmask to scan<br>
+  -o <outputdirectory> save scan output<br>
+  -f <fileinput> list of targets<br>
+  -p <port> target snmp port<br>
+  -v  verbose mode<br>
+  -c <communityname> (public or private)<br>
+  -? print this help menu<br>
+default community names are : public, private<br>
+default port : 161<br>
 \n
-examples : snmpscan 192.168.1.23/24 private\n
-           snmpscan 192.168.1.23/24 public -o snmpoutput.txts\n
-           snmpscan 192.168.1.23/24 public -f snmptargets.txt -o snmpoutput.txt\n
+examples : snmpscan 192.168.1.23/24 private<br>
+           snmpscan 192.168.1.23/24 public -o snmpoutput.txts<br>
+           snmpscan 192.168.1.23/24 public -f snmptargets.txt -o snmpoutput.txt<br>
