@@ -9,7 +9,7 @@ I redesigned most of it using the OOP of C++, but there is still a lot of simila
 
 ## Usage
 
-USAGE: **snmpscan** [OPTIONS] <host> <community><br>
+USAGE: **snmpscan** [OPTIONS] \<host\> \<community\><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-h <host> IPv4 or Netmask to scan<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-o <outputdirectory> save scan output<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-f <fileinput> list of targets<br>
